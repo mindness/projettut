@@ -7,6 +7,7 @@ import javax.swing.*;
 public class GraphPanel extends JPanel {
 // test panda
 	//CA MARCHE TRES BIEN OMG PANDA ROUX
+	//bite de panda
      private int radius = 50;
 	 private int nbSommet = 0;
 

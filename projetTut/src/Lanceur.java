@@ -4,7 +4,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.Collections;
 import javax.swing.event.*;
-
+//Ca lance mes couilles cest tout omfg
 public class Lanceur extends JFrame implements ActionListener
 {	
 	private JMenuBar mb = new JMenuBar();
